@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD6BF4a79B53981256399fb6f9f7A2D02D2a98920",
+  "SCAN_LINK": "https://etherscan.io/address/0xD6BF4a79B53981256399fb6f9f7A2D02D2a98920",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BICKS",
+  "SYMBOL": "SMOL",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 2500000000000000,
+  "DISPLAY_COST": 0.00250000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bickswtf",
+  "SHOW_BACKGROUND": true
+}
